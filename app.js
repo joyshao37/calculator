@@ -1,4 +1,4 @@
-$(function(){
+﻿$(function(){
 
 var btnNum=""; //0123456789
 var currentText="";
