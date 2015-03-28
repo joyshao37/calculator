@@ -1,0 +1,16 @@
+{
+  "name": "js101",
+  "version": "0.0.0",
+  "homepage": "https://github.com/joyshao37/joyshao",
+  "authors": [
+    "邵家怡 <a0921527449@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,53 @@
+
+#message{
+
+	width:510px;
+	height: 60px;
+	background-size: 100px;
+	background-color: white;
+	text-align: right;
+	font-size: 45px;
+	font-family: monospace;
+
+
+
+}
+
+
+button{
+  width: 120px;
+  height: 90px;
+  font-family: ;
+  font-size: 40px;
+  margin: 1px;
+  background-color: #ffd700;
+  border-style: 300px solid #000000;
+  
+}
+
+
+
+
+
+body{
+
+	background-color: #fff0f5;
+}
+
+#calculator{
+
+  border-style: solid;
+  border-width: medium;
+  width: 550px;
+  height: 600px;
+  padding-left: 35px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffb6c1;
+  margin:auto;
+  font-family:monospace;
+
+
+
+}
+
